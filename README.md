@@ -8,7 +8,7 @@ Juliana Rangel Roque<br/>
 
 ###2	ORIENTADORES<br/>
 Moisés Omenna (Orientador)<br/>
-Carlos (Co-orientador)<br/>
+Carlos Lins(Co-orientador)<br/>
 Fancisco Boldt (Co-orientador)<br/>
 
 ###3 TÍTULO DO PROJETO<br/>
@@ -28,22 +28,25 @@ na organização e controle dos voluntários e equipe. Gere relatórios sobre os
 Além disso, possibilitar envio de mailing com informativos de campanhas e ações a serem realizadas.  
 
 ###5 INTRODUÇÃO E JUSTIFICATIVA<br/>
-
-
+<br/>
+<br/>
+<br/>
 ###6 PROBLEMA DA PESQUISA<br/>
-
+<br/>
+<br/>
+<br/>
 ###7 OBJETIVOS DE PESQUISA<br/>
-####7.1 OBJETIVO GERAL
+####7.1 OBJETIVO GERAL<br/>
 
-Desenvolver  um  sistema  web  para  automatizar  o  registro  das  atividades do Centro de Acompanhamento ao Cidadão (CAC) e facilitar o acesso da população a informações confiáveis sobre HIV/AIDS.<br>  
+   Desenvolver  um  sistema  web  para  automatizar  o  registro  das  atividades do Centro de Acompanhamento ao Cidadão (CAC) e facilitar o acesso da população a informações confiáveis sobre HIV/AIDS.<br/>
 
-####7.2 OBJETIVO ESPECÍFICO
+####7.2 OBJETIVO ESPECÍFICO<br/>
 - Analisar os requisitos; 
 - Modelar o banco de dados; 
 - Implementar o banco de dados; 
 - Implementar o sistema com os módulos A, B, C...
 - Desenvolver relatórios gerenciais;  
--  Desenvolver  o  site  CAC  para  facilitar  a  busca  de  dados  e  organização  dos mesmos
+-  Desenvolver  o  site  CAC  para  facilitar  a  busca  de  dados  e  organização  dos mesmos<br/>
 
 ###8 FUNDAMENTAÇÃO TEÓRICA<br/>
 
@@ -112,39 +115,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ###6	MODELO LÓGICO<br>
 ###7	MODELO FÍSICO<br>
 
-        Entrega até este ponto em 25/10/2016
-        
-        
-###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
-####8.1 DETALHAMENTO DAS INFORMAÇÕES
-        Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
-        Referenciar todas as fontes referentes a :
-        a) obtenção dos dados
-        b) obtenção de códigos reutilizados
-        c) fontes de estudo para desenvolvimento do projeto
-        
-####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-        a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
-        b) inclusão das instruções de inserção dos dados nas referidas tabelas
-        c) inclusão das instruções para execução de outros procedimentos necessários
 
-
-        Entrega até este ponto em 01/11/2016
-        
-###9	TABELAS E PRINCIPAIS CONSULTAS<br>
-OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
-####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
-####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
-####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
-####9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
-####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
-####9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
-####9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
-        Entrega até este ponto em 08/11/2016
-        
-####9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
-####9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
-####9.10	SUBCONSULTAS (Mínimo 3) <br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
