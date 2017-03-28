@@ -64,7 +64,7 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 
 ### 15	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 Aqui estão os prints das telas feitas no Moqups. A versão Free não permite exportar para PDF. <br>
-Irei fazer no MyBalsamic uma outra versão
+Irei fazer no MyBalsamic uma outra versão <br>
 https://app.moqups.com/login <br>
 Login: projetojuliana <br>
 Senha: projetointegrador <br>
