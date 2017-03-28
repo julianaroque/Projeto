@@ -59,40 +59,10 @@ Além disso, possibilitar envio de mailing com informativos de campanhas e açõ
 ###12 CRONOGRAMA<br/>
 
 
-
-###14	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
-
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela%2001.png?raw=true "Title")<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela02.png)<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela03.png)<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela04.png)<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela05.png)<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela06.png)<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela07.png)<br/>
-
-###3	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados do CAC, temática a qual foi escolhida para o desenvolvimento do projeto final do curso de informática do Ifes campus-serra.<br>
-
-Com o aumenta da epidemia da AIDS 
-Com o crescimento da epidemia da AIDS e a necessidade de se fazer algo mais para as pessoas vivendo com HIV/AIDS, surge no Outono de 2001 o C.A.C. - Centro de Apoio ao Cidadão, sendo uma Instituição Filantrópica da Sociedade Civil, de Fins Não Econômicos, pertencente ao Terceiro Setor enquanto ONG, de Utilidade Pública, inserida com o código de atividade principal de Associação de Defesa de Direitos Sociais, que busca vias e formas para sustentar o tratamento das pessoas acometidas com o vírus HIV/AIDS, no intuito de fornecer aos mesmos, informações, auxílios, ou simplesmente um apoio social e familiar para o enfrentamento da doença. Com a finalidade de com isso fazer da solidariedade, não uma utopia, mas um gesto de amor e doação para com o próximo, em valorização da vida humana e da cidadania.  
-
-Trabalhando com doações, parcerias e serviços técnicos voluntários, o 
-
-B – Problema (2 parágrafos) 
-
-O CAC já possui um domínio registrado e permanecem pagando-o, no entanto ainda não conseguiram colocar em prática algumas ideias devido à atuação ocorrer apenas através de doações, parcerias e serviço voluntário. 
-
-Existe a necessidade de um site que possa ser usado como ferramenta para acesso de informações e, além disso, um sistema web com o qual possam realizar o cadastro de pacientes, voluntários, ações além de gerar relatórios, pois estas atividades até hoje são feitas de maneira manual. 
-
-C – Propósito 
-
-A proposta inicial é o desenvolvimento de um sistema web com o qual possam ser realizados cadastros de pacientes, voluntários, equipe CAC, programas, ações. Com isso, um melhor acompanhamento dos dados dos pacientes e dos resultados das ações e dos programas.
-###4	MINI-MUNDO<br>
+###14	MINI-MUNDO<br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 
-###5	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
+###15	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
 ![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
