@@ -63,12 +63,19 @@ Além disso, possibilitar envio de mailing com informativos de campanhas e açõ
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 
 ### 15	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
-![Principal](https://github.com/julianaroque/Projeto/blob/master/principal.png) <br>
-
+Aqui estão os prints das telas feitas no Moqups. A versão Free não permite exportar para PDF. <br>
+Irei fazer no MyBalsamic uma outra versão
 https://app.moqups.com/login <br>
 Login: projetojuliana <br>
 Senha: projetointegrador <br>
+
+![Principal](https://github.com/julianaroque/Projeto/blob/master/principal.png) <br>
+![Login](https://github.com/julianaroque/Projeto/blob/master/login.png)<br>
+![Logout](https://github.com/julianaroque/Projeto/blob/master/logof.png)<br>
+![Logado Equipe](https://github.com/julianaroque/Projeto/blob/master/login%20Equipe.png)<br>
+![Logado Geral](https://github.com/julianaroque/Projeto/blob/master/login%20geral.png)<br>
+![Cadastro Paciente](https://github.com/julianaroque/Projeto/blob/master/paciente.png)<br>
+![Cadastro Voluntário](https://github.com/julianaroque/Projeto/blob/master/voluntario.png)<br>
 
 ### 16	MODELO CONCEITUAL<br>
    ### 16.1 NOTACAO ENTIDADE RELACIONAMENTO<br>
