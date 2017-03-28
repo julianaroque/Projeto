@@ -64,8 +64,9 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 
 ### 15	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
+![Principal](https://github.com/julianaroque/Projeto/blob/master/principal.png) <br>
 
-![Alt text](https://app.moqups.com/login "MOCKUP") <br>
+https://app.moqups.com/login <br>
 Login: projetojuliana <br>
 Senha: projetointegrador <br>
 
