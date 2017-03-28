@@ -82,13 +82,13 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
 ![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela%2001.png)
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela02.png)
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela03.png)
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela04.png)
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela05.png)
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela06.png)
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela07.png)
+![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela%2001.png)<br/>
+![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela02.png)<br/>
+![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela03.png)<br/>
+![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela04.png)<br/>
+![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela05.png)<br/>
+![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela06.png)<br/>
+![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela07.png)<br/>
 
 
 
