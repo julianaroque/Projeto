@@ -1,21 +1,21 @@
 # PROJETO FINAL
 Projeto final do curso técnico de informática. 
 
-#Sumário
+# Sumário
 
-###1	ORIENTANDA<br/>
+### 1	ORIENTANDA<br/>
 Juliana Rangel Roque<br/>
 
-###2	ORIENTADORES<br/>
+### 2	ORIENTADORES<br/>
 Moisés Omenna (Orientador)<br/>
 Carlos Lins(Co-orientador)<br/>
 Fancisco Boldt (Co-orientador)<br/>
 
-###3 TÍTULO DO PROJETO<br/>
+### 3 TÍTULO DO PROJETO<br/>
 CACWeb – Sistema de Interface Web do Centro de Atendimento ao 
 Cidadão <br/>
 
-###4 RESUMO DO PROJETO<br/>
+### 4 RESUMO DO PROJETO<br/>
 O Centro  de  apoio  ao  cidadão  (CAC) é  uma  instituição  filantrópica sem  fins  lucrativos  que  surgiu  em  outubro  de  2001  devido  à necessidade  surgida  pelo  crescimento  da  epidemia  da  AIDS no estado  do  Espírito  Santo,  e  desde  então  faz  acompanhamento  de pacientes    portadores    de    HIV/AIDS,    além    de    ações    para conscientização da população.  
 Entretanto,  os  registros  de  informações  e  acompanhamento  dos pacientes  ainda  ocorrem  de  maneira  manual,  além  disto,  existe  a necessidade  de  uma  melhoria  qual  melhoria?  que  possa  facilitar  o acesso de informações confiáveis sobre o HIV/AIDS pelas pessoas em geral. 
 Neste projeto, desenvolveremos  um sistema  web  por meio  do  qual a  população  possa  obter  informações  confiáveis  e  a  equipe  CAC possa realizar cadastros de pacientes, voluntários, programas e ações.  Com  isso,  automatizar  o  registro  das  atividades  realizadas  no cotidiano do CAC. 
@@ -27,20 +27,20 @@ Como resultado espera-se que o CAC Web torne as atividades automatizadas e facil
 na organização e controle dos voluntários e equipe. Gere relatórios sobre os pacientes, voluntários, dos projetos e das ações. 
 Além disso, possibilitar envio de mailing com informativos de campanhas e ações a serem realizadas.  
 
-###5 INTRODUÇÃO E JUSTIFICATIVA<br/>
+### 5 INTRODUÇÃO E JUSTIFICATIVA<br/>
 <br/>
 <br/>
 <br/>
-###6 PROBLEMA DA PESQUISA<br/>
+### 6 PROBLEMA DA PESQUISA<br/>
 <br/>
 <br/>
 <br/>
-###7 OBJETIVOS DE PESQUISA<br/>
-####7.1 OBJETIVO GERAL<br/>
+### 7 OBJETIVOS DE PESQUISA<br/>
+#### 7.1 OBJETIVO GERAL<br/>
 
    Desenvolver  um  sistema  web  para  automatizar  o  registro  das  atividades do Centro de Acompanhamento ao Cidadão (CAC) e facilitar o acesso da população a informações confiáveis sobre HIV/AIDS.<br/>
 
-####7.2 OBJETIVO ESPECÍFICO<br/>
+#### 7.2 OBJETIVO ESPECÍFICO<br/>
 - Analisar os requisitos; 
 - Modelar o banco de dados; 
 - Implementar o banco de dados; 
@@ -48,24 +48,24 @@ Além disso, possibilitar envio de mailing com informativos de campanhas e açõ
 - Desenvolver relatórios gerenciais;  
 -  Desenvolver  o  site  CAC  para  facilitar  a  busca  de  dados  e  organização  dos mesmos<br/>
 
-###8 FUNDAMENTAÇÃO TEÓRICA<br/>
+### 8 FUNDAMENTAÇÃO TEÓRICA<br/>
 
-###9 METODOLOGIA<br/>
+### 9 METODOLOGIA<br/>
 
-###10 RESULTADOS E IMPACTOS ESPERADOS<br/>
+### 10 RESULTADOS E IMPACTOS ESPERADOS<br/>
 
-###11 RESULTADOS E IMPACTOS ESPERADOS<br/>
+### 11 RESULTADOS E IMPACTOS ESPERADOS<br/>
 
-###12 CRONOGRAMA<br/>
+### 12 CRONOGRAMA<br/>
 
 
-###14	MINI-MUNDO<br>
+### 14	MINI-MUNDO<br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 
 ###15	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-(https://app.moqups.com/login) <br>
+https://app.moqups.com/login <br>
 Login: projetojuliana <br>
 Senha: projetointegrador <br>
 
@@ -80,46 +80,27 @@ Senha: projetointegrador <br>
 
 
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
-
-
-###6	MODELO CONCEITUAL<br>
-    6.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/discipbd1/trab01/blob/master/sample_MC.png?raw=true "Modelo Conceitual")
+### 16	MODELO CONCEITUAL<br>
+    16.1 NOTACAO ENTIDADE RELACIONAMENTO
+![Alt text](https://github.com/discipbd1/trab01/blob/master/sample_MC.png?raw=true "Modelo Conceitual") 
     
-    6.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
+   16.2 NOTACAO ENTIDADE RELACIONAMENTO
 
-####5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
-    [Grupo02]: [Nomes dos que participaram na avaliação]
-
-####5.2 DECISÕES DE PROJETO
-    [atributo]: [descrição da decisão]
     
-    EXEMPLO:
-    a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-    pode possuir para cada departamento mais de uma localização... 
-    b) justifique!
-
-####5.3 DESCRIÇÃO DOS DADOS 
-    [objeto]: [descrição do objeto]
-    
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+     16.1 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 
-###6	MODELO LÓGICO<br>
-###7	MODELO FÍSICO<br>
+### 17	MODELO LÓGICO<br>
+### 18	MODELO FÍSICO<br>
 
 
-###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
-###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+### 19	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+
+### 20	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
         Entrega final em 23/11/2016
-###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+###  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
 
