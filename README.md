@@ -62,44 +62,27 @@ Além disso, possibilitar envio de mailing com informativos de campanhas e açõ
 ### 14	MINI-MUNDO<br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 
-###15	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
+### 15	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-https://app.moqups.com/login <br>
+![Alt text](https://app.moqups.com/login "MOCKUP") <br>
 Login: projetojuliana <br>
 Senha: projetointegrador <br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela%2001.png?raw=true "Title")<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela02.png)<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela03.png)<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela04.png)<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela05.png)<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela06.png)<br/>
-![Alt text] (https://github.com/julianaroque/Projeto/blob/master/Tela07.png)<br/>
-
-
-
-
 ### 16	MODELO CONCEITUAL<br>
-    16.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/discipbd1/trab01/blob/master/sample_MC.png?raw=true "Modelo Conceitual") 
-    
-   16.2 NOTACAO ENTIDADE RELACIONAMENTO
-
-    
-     16.1 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
-
-
+   ### 16.1 NOTACAO ENTIDADE RELACIONAMENTO<br>
+   <br>
+   ### 16.2 NOTACAO UML
+   <br>
 ### 17	MODELO LÓGICO<br>
+<br>
 ### 18	MODELO FÍSICO<br>
-
-
+<br>
 ### 19	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
-
+<br>
 ### 20	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
-
-        Entrega final em 23/11/2016
+<br>
+        
 ###  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
