@@ -69,13 +69,7 @@ https://app.moqups.com/login <br>
 Login: projetojuliana <br>
 Senha: projetointegrador <br>
 
-![Principal](https://github.com/julianaroque/Projeto/blob/master/principal.png) <br>
-![Login](https://github.com/julianaroque/Projeto/blob/master/login.png)<br>
-![Logout](https://github.com/julianaroque/Projeto/blob/master/logof.png)<br>
-![Logado Equipe](https://github.com/julianaroque/Projeto/blob/master/login%20Equipe.png)<br>
-![Logado Geral](https://github.com/julianaroque/Projeto/blob/master/login%20geral.png)<br>
-![Cadastro Paciente](https://github.com/julianaroque/Projeto/blob/master/paciente.png)<br>
-![Cadastro Voluntário](https://github.com/julianaroque/Projeto/blob/master/voluntario.png)<br>
+![MYBALSAMIC](https://github.com/julianaroque/Projeto/blob/master/MockUpCAC.pdf) <br>
 
 ### 16	MODELO CONCEITUAL<br>
    ### 16.1 NOTACAO ENTIDADE RELACIONAMENTO<br>
